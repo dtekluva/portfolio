@@ -1,0 +1,20 @@
+body{
+    background:#eee;
+}
+
+#blog{
+    color: purple;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+.blog{
+    color: #f00;
+    font-size: 50px;
+    letter-spacing: 1px;
+    text-align: center;
+    font-weight: 500
+}
+input[type='text']{
+    background: red;
+}

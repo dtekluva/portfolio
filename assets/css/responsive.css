@@ -1,0 +1,19 @@
+@media(max-width: 425px){
+    .navDesktop{
+        display: none;
+    }
+    .overlay h3{
+        font-size: 23px;
+        text-align: center;
+    }
+    .column{
+        flex: 0 0 calc(100%);
+    }
+}
+
+
+@media(min-width: 426px){
+    .hamburger{
+        display: none;
+    }
+}
